@@ -1,0 +1,22 @@
+/* dashboard.css */
+
+/* Reseta o estilo padrão do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Define o fundo e a cor do texto em modo escuro */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo da página do dashboard */
+iframe {
+    width: 100%;
+    height: 100vh;
+    border: none;
+}
